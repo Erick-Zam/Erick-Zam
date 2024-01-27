@@ -3368,7 +3368,6 @@ input[type="button"].btn-block {
 }
 
 .collapse:not(.show) {
-  display: none;
 }
 
 .collapsing {
@@ -11454,7 +11453,6 @@ pre .code {
 
 @media (max-width: 991.98px) {
   .navbar .brand {
-    display: none;
   }
 }
 
