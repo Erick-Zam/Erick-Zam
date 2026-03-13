@@ -42,7 +42,6 @@ Ingeniero en Computacion enfocado en construir soluciones backend y despliegues 
 
 ### 🌐 Web y Portfolio
 
-- 🌐 [Erick-Zam.github.io](https://github.com/Erick-Zam/Erick-Zam.github.io) | Sitio personal (HTML)
 - 🍃 [Web-Isaitur](https://github.com/Erick-Zam/Web-Isaitur) | Chatbot y gestión para Agencia de Viajes (React/PHP)
 - 🤖 [travel-chatbot](https://github.com/Erick-Zam/travel-chatbot) | Chatbot inteligente para viajes (Next.js/OpenAI)
 - 🌿 [BioTea](https://github.com/Erick-Zam/BioTea) | Proyecto web (TypeScript)
@@ -68,32 +67,17 @@ Ingeniero en Computacion enfocado en construir soluciones backend y despliegues 
 - 👤 [Erick-Zam](https://github.com/Erick-Zam/Erick-Zam) | Repositorio de perfil
 - 🔧 [Sistema-Finca-La-Delicia-](https://github.com/Erick-Zam/Sistema-Finca-La-Delicia-) | Fork / colaboracion
 
-## Todos mis repositorios (lista completa)
-
-- 📦 [Api-WhatsApp](https://github.com/Erick-Zam/Api-WhatsApp) | Platform SaaS (Node.js/Docker)
-- 📦 [BioTea](https://github.com/Erick-Zam/BioTea) | TypeScript
-- 📦 [IoT-Full-Stack](https://github.com/Erick-Zam/IoT-Full-Stack) | IoT & Mobile (React Native/ESP32)
-- 📦 [Erick-Zam](https://github.com/Erick-Zam/Erick-Zam) | Profile Repository
-- 📦 [Erick-Zam.github.io](https://github.com/Erick-Zam/Erick-Zam.github.io) | HTML
-- 📦 [KPIs](https://github.com/Erick-Zam/KPIs) | AI Microservice (Python)
-- 📦 [Portafolio-Servidor](https://github.com/Erick-Zam/Portafolio-Servidor) | Infrastructure & App (NestJS/React Native)
-- 📦 [Server-LLM](https://github.com/Erick-Zam/Server-LLM) | Server Manager (Python)
-- 📦 [Sistema-Finca-La-Delicia-](https://github.com/Erick-Zam/Sistema-Finca-La-Delicia-) | Colaboración
-- 📦 [stack-navigations](https://github.com/Erick-Zam/stack-navigations) | JavaScript
-- 📦 [tesiss](https://github.com/Erick-Zam/tesiss) | PHP
-- 📦 [travel-chatbot](https://github.com/Erick-Zam/travel-chatbot) | Web Chatbot (Next.js)
-- 📦 [Web-Isaitur](https://github.com/Erick-Zam/Web-Isaitur) | Chatbot Agency (React/PHP)
 
 ## Repos destacados
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Erick-Zam&repo=Portafolio-Servidor&theme=tokyonight&hide_border=true&bg_color=00000000" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Erick-Zam&repo=Api-WhatsApp&theme=tokyonight&hide_border=true&bg_color=00000000" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Erick-Zam&repo=Portafolio-Servidor&theme=tokyonight&hide_border=true&show_owner=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Erick-Zam&repo=Api-WhatsApp&theme=tokyonight&hide_border=true&show_owner=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Erick-Zam&repo=Server-LLM&theme=tokyonight&hide_border=true&bg_color=00000000" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Erick-Zam&repo=IoT-Full-Stack&theme=tokyonight&hide_border=true&bg_color=00000000" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Erick-Zam&repo=Server-LLM&theme=tokyonight&hide_border=true&show_owner=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Erick-Zam&repo=IoT-Full-Stack&theme=tokyonight&hide_border=true&show_owner=true" />
 </p>
 
 ## Contacto
