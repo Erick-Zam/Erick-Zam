@@ -38,34 +38,78 @@ Ingeniero en Computacion enfocado en construir soluciones backend y despliegues 
 </p>
 
 
-## 📁 Repositorios por categoria
+## 📁 Repositorios
 
-### 🌐 Web y Portfolio
 
-- 🍃 [Web-Isaitur](https://github.com/Erick-Zam/Web-Isaitur) | Chatbot y gestión para Agencia de Viajes (React/PHP)
-- 🤖 [travel-chatbot](https://github.com/Erick-Zam/travel-chatbot) | Chatbot inteligente para viajes (Next.js/OpenAI)
-- 🌿 [BioTea](https://github.com/Erick-Zam/BioTea) | Proyecto web (TypeScript)
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🌐 Web y Portfolio</h4>
+      <p>
+        <a href="https://github.com/Erick-Zam/Web-Isaitur"><b>🍃 Web-Isaitur</b></a><br>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" /><br>
+        <i>Chatbot y gestión para Agencia de Viajes.</i>
+      </p>
+      <p>
+        <a href="https://github.com/Erick-Zam/travel-chatbot"><b>🤖 travel-chatbot</b></a><br>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs" /> <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai" /><br>
+        <i>Chatbot inteligente para planificación de viajes.</i>
+      </p>
+      <p>
+        <a href="https://github.com/Erick-Zam/BioTea"><b>🌿 BioTea</b></a><br>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /><br>
+        <i>Proyecto web de e-commerce sustentable.</i>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>⚙️ Backend e Infraestructura</h4>
+      <p>
+        <a href="https://github.com/Erick-Zam/Portafolio-Servidor"><b>🏛️ Portafolio-Servidor</b></a><br>
+        <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /><br>
+        <i>Monorepo para gestión de servidores y backend admin.</i>
+      </p>
+      <p>
+        <a href="https://github.com/Erick-Zam/Api-WhatsApp"><b>🚀 Api-WhatsApp</b></a><br>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/SaaS-orange?style=flat-square" /><br>
+        <i>Plataforma de automatización de mensajería empresarial.</i>
+      </p>
+      <p>
+        <a href="https://github.com/Erick-Zam/LLM-Server"><b>🛠️ LLM-Server</b></a><br>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Ollama-black?style=flat-square" /><br>
+        <i>Orquestador de modelos LLM remoto vía SSH.</i>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🔌 IoT y Mobile</h4>
+      <p>
+        <a href="https://github.com/Erick-Zam/IoT-Full-Stack"><b>🔋 IoT-Full-Stack</b></a><br>
+        <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react" /> <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif" /><br>
+        <i>Sensores y hardware controlados desde móvil.</i>
+      </p>
+      <p>
+        <a href="https://github.com/Erick-Zam/KPIs"><b>🧠 KPIs (IA)</b></a><br>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Metrics-blue?style=flat-square" /><br>
+        <i>Análisis inteligente de métricas críticas.</i>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>👤 Académico y Otros</h4>
+      <p>
+        <a href="https://github.com/Erick-Zam/tesiss"><b>🎓 tesiss</b></a><br>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" /><br>
+        <i>Proyecto integrador de grado.</i>
+      </p>
+      <p>
+        <a href="https://github.com/Erick-Zam/Sistema-Finca-La-Delicia-"><b>🔧 Colaboraciones</b></a><br>
+        <img src="https://img.shields.io/badge/Fork-lightgrey?style=flat-square" /><br>
+        <i>Contribuciones a sistemas agrícolas.</i>
+      </p>
+    </td>
+  </tr>
+</table>
 
-### ⚙️ Backend, Infraestructura e IA
-
-- 🏛️ [Portafolio-Servidor](https://github.com/Erick-Zam/Portafolio-Servidor) | Monorepo: Backend NestJS, App Admin y Gestión de Servidores (Docker/Node.js)
-- 🚀 [Api-WhatsApp](https://github.com/Erick-Zam/Api-WhatsApp) | Plataforma SaaS para automatización de WhatsApp (Node.js/Docker)
-- 🧠 [KPIs](https://github.com/Erick-Zam/KPIs) | Microservicio de IA para análisis de métricas y KPIs (Python)
-- 🛠️ [LLM-Server](https://github.com/Erick-Zam/LLM-Server) | Gestor remoto de servidores para LLMs y Ollama (Python/SSH)
-
-### 📱 Mobile e IoT
-
-- 🔌 [IoT-Full-Stack](https://github.com/Erick-Zam/IoT-Full-Stack) | Control de hardware y sensores mediante Bluetooth/WiFi (React Native/ESP32)
-- 📱 [stack-navigations](https://github.com/Erick-Zam/stack-navigations) | Base de navegación en JavaScript
-
-### 🎓 Academico
-
-- 🎓 [tesiss](https://github.com/Erick-Zam/tesiss) | Proyecto en PHP
-
-### 👤 Perfil y Otros
-
-- 👤 [Erick-Zam](https://github.com/Erick-Zam/Erick-Zam) | Repositorio de perfil
-- 🔧 [Sistema-Finca-La-Delicia-](https://github.com/Erick-Zam/Sistema-Finca-La-Delicia-) | Fork / colaboracion
 
 
 ## Repos destacados
