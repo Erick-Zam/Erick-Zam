@@ -14,148 +14,81 @@ Ingeniero en Computacion enfocado en construir soluciones backend y despliegues 
 
 ## 🗂️ Ecosistema tecnico
 
-### ⚙️ Backend
-
 <table>
   <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" /><br><sub><b>Python</b></sub>
+
+    <td align="center" valign="top" width="33%">
+      <br>
+      <b>⚙️ Backend</b>
+      <br><br>
+      <img src="https://skillicons.dev/icons?i=python,nodejs,fastapi,flask,php,java,go&perline=4" />
+      <br><br>
+      <kbd>Python</kbd> <kbd>Node.js</kbd> <kbd>FastAPI</kbd> <kbd>Flask</kbd>
+      <kbd>PHP</kbd> <kbd>Java</kbd> <kbd>Go</kbd>
+      <br><br>
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" /><br><sub><b>Node.js</b></sub>
+
+    <td align="center" valign="top" width="33%">
+      <br>
+      <b>🌐 Frontend y Web</b>
+      <br><br>
+      <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,vite&perline=4" />
+      <br><br>
+      <kbd>JavaScript</kbd> <kbd>TypeScript</kbd> <kbd>HTML5</kbd> <kbd>CSS3</kbd>
+      <kbd>React</kbd> <kbd>Next.js</kbd> <kbd>Vite</kbd>
+      <br><br>
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" /><br><sub><b>FastAPI</b></sub>
+
+    <td align="center" valign="top" width="33%">
+      <br>
+      <b>🗄️ Databases</b>
+      <br><br>
+      <img src="https://skillicons.dev/icons?i=mysql,mongodb&perline=4" />
+      <br>
+      <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="30" />
+      <br><br>
+      <kbd>MySQL</kbd> <kbd>MongoDB</kbd> <kbd>SQL Server</kbd>
+      <br><br>
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" /><br><sub><b>Flask</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" /><br><sub><b>PHP</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" /><br><sub><b>Java</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" /><br><sub><b>Go</b></sub>
-    </td>
+
   </tr>
-</table>
-
-### 🌐 Frontend y Web
-
-<table>
   <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" /><br><sub><b>JavaScript</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" /><br><sub><b>TypeScript</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" /><br><sub><b>HTML5</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" /><br><sub><b>CSS3</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" /><br><sub><b>Next.js</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" /><br><sub><b>Vite</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" /><br><sub><b>React</b></sub>
-    </td>
-  </tr>
-</table>
 
-### 🗄️ Databases
+    <td align="center" valign="top" width="33%">
+      <br>
+      <b>🚀 DevOps e Infraestructura</b>
+      <br><br>
+      <img src="https://skillicons.dev/icons?i=docker,linux,githubactions,nginx,git,bash&perline=3" />
+      <br><br>
+      <kbd>Docker</kbd> <kbd>Linux</kbd> <kbd>GH Actions</kbd>
+      <kbd>Nginx</kbd> <kbd>Git</kbd> <kbd>Bash</kbd>
+      <br><br>
+    </td>
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" /><br><sub><b>MySQL</b></sub>
+    <td align="center" valign="top" width="33%">
+      <br>
+      <b>📱 Mobile</b>
+      <br><br>
+      <img src="https://skillicons.dev/icons?i=react,expo,androidstudio&perline=4" />
+      <br><br>
+      <kbd>React Native</kbd> <kbd>Expo</kbd>
+      <kbd>Android Studio</kbd>
+      <br><br>
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" /><br><sub><b>MongoDB</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" width="80" height="48" alt="SQL Server" /><br><sub><b>SQL Server</b></sub>
-    </td>
-  </tr>
-</table>
 
-### 🚀 DevOps e Infraestructura
+    <td align="center" valign="top" width="33%">
+      <br>
+      <b>🔌 IoT y Herramientas</b>
+      <br><br>
+      <img src="https://skillicons.dev/icons?i=arduino,cpp,vscode,postman,github&perline=3" />
+      <br>
+      <img src="https://img.shields.io/badge/ESP32-3C3C3C?style=for-the-badge&logo=espressif&logoColor=E7352C" height="30" />
+      <br><br>
+      <kbd>Arduino</kbd> <kbd>C++</kbd> <kbd>ESP32</kbd>
+      <kbd>VS Code</kbd> <kbd>Postman</kbd> <kbd>GitHub</kbd>
+      <br><br>
+    </td>
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" /><br><sub><b>Docker</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" /><br><sub><b>Linux</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions" /><br><sub><b>GH Actions</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="Nginx" /><br><sub><b>Nginx</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /><br><sub><b>Git</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" /><br><sub><b>Bash</b></sub>
-    </td>
-  </tr>
-</table>
-
-### 📱 Mobile
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React Native" /><br><sub><b>React Native</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=expo" width="48" height="48" alt="Expo" /><br><sub><b>Expo</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="Android Studio" /><br><sub><b>Android Studio</b></sub>
-    </td>
-  </tr>
-</table>
-
-### 🔌 IoT y Automatizacion
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=arduino" width="48" height="48" alt="Arduino" /><br><sub><b>Arduino</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" /><br><sub><b>C++</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://img.shields.io/badge/ESP32-3C3C3C?style=flat&logo=espressif&logoColor=E7352C" width="80" height="48" alt="ESP32" /><br><sub><b>ESP32</b></sub>
-    </td>
-  </tr>
-</table>
-
-### 🛠️ Herramientas
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" /><br><sub><b>VS Code</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" /><br><sub><b>Postman</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" /><br><sub><b>GitHub</b></sub>
-    </td>
   </tr>
 </table>
 
