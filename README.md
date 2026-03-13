@@ -115,7 +115,6 @@ Ingeniero en Computacion enfocado en construir soluciones backend y despliegues 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Erick-Zam&repo=LLM-Server&theme=tokyonight&hide_border=true&show_owner=true" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Erick-Zam&repo=IoT-Full-Stack&theme=tokyonight&hide_border=true&show_owner=true" />
 </p>
 
 ## Contacto
