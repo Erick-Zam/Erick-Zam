@@ -49,68 +49,56 @@ Ingeniero en Computacion enfocado en construir soluciones backend y despliegues 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <img src="assets/covers/api-whatsapp.png" width="100%" style="border-radius:10px;" />
-      <br>
       <div align="right"><b>SaaS / API</b></div>
       <h3>WhatsApp API SaaS Platform</h3>
       <p>Una robusta plataforma SaaS de código abierto para automatizar la comunicación por WhatsApp. Construida con Node.js y Docker, permite integraciones masivas y gestión de campañas.</p>
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
       <br><br>
-      <a href="https://github.com/Erick-Zam/Api-WhatsApp"><img src="https://img.shields.io/badge/👁️_Preview-000000?style=for-the-badge" /></a> <a href="https://github.com/Erick-Zam/Api-WhatsApp"><img src="https://img.shields.io/badge/💻_View_Full-white?style=for-the-badge" /></a>
+      <a href="https://github.com/Erick-Zam/Api-WhatsApp"><b>[ 🔗 Ver código del repositorio ]</b></a>
     </td>
     <td width="50%" valign="top">
-      <img src="assets/covers/portafolio-servidor.png" width="100%" style="border-radius:10px;" />
-      <br>
       <div align="right"><b>Infraestructura / Fullstack</b></div>
       <h3>Portafolio Servidor Monorepo</h3>
       <p>Centro neurálgico para la gestión de infraestructura. Incluye un potente backend en NestJS y una aplicación móvil para monitoreo en tiempo real de contenedores y métricas.</p>
       <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" /> <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
       <br><br>
-      <a href="https://github.com/Erick-Zam/Portafolio-Servidor"><img src="https://img.shields.io/badge/👁️_Preview-000000?style=for-the-badge" /></a> <a href="https://github.com/Erick-Zam/Portafolio-Servidor"><img src="https://img.shields.io/badge/💻_View_Full-white?style=for-the-badge" /></a>
+      <a href="https://github.com/Erick-Zam/Portafolio-Servidor"><b>[ 🔗 Ver código del repositorio ]</b></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <img src="assets/covers/llm-server.png" width="100%" style="border-radius:10px;" />
-      <br>
       <div align="right"><b>AI / DevOps</b></div>
       <h3>LLM Server Manager</h3>
       <p>Herramienta avanzada para el despliegue y gestión remota de modelos de lenguaje (Ollama). Permite orquestar servidores IA mediante una interfaz optimizada y terminal SSH.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/SSH-000000?style=flat-square&logo=ssh&logoColor=white" /> <img src="https://img.shields.io/badge/AI-Ollama-blue?style=flat-square" />
       <br><br>
-      <a href="https://github.com/Erick-Zam/LLM-Server"><img src="https://img.shields.io/badge/👁️_Preview-000000?style=for-the-badge" /></a> <a href="https://github.com/Erick-Zam/LLM-Server"><img src="https://img.shields.io/badge/💻_View_Full-white?style=for-the-badge" /></a>
+      <a href="https://github.com/Erick-Zam/LLM-Server"><b>[ 🔗 Ver código del repositorio ]</b></a>
     </td>
     <td width="50%" valign="top">
-      <img src="assets/covers/iot-fullstack.png" width="100%" style="border-radius:10px;" />
-      <br>
       <div align="right"><b>IoT / Mobile App</b></div>
       <h3>IoT Full Stack Control</h3>
       <p>Ecosistema integral de hardware y software. Aplicación móvil que interactúa con dispositivos ESP32 mediante Bluetooth y WiFi para el control de sensores y domótica.</p>
       <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" /> <img src="https://img.shields.io/badge/IoT-Connect-blueviolet?style=flat-square" />
       <br><br>
-      <a href="https://github.com/Erick-Zam/IoT-Full-Stack"><img src="https://img.shields.io/badge/👁️_Preview-000000?style=for-the-badge" /></a> <a href="https://github.com/Erick-Zam/IoT-Full-Stack"><img src="https://img.shields.io/badge/💻_View_Full-white?style=for-the-badge" /></a>
+      <a href="https://github.com/Erick-Zam/IoT-Full-Stack"><b>[ 🔗 Ver código del repositorio ]</b></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <img src="assets/covers/travel-chatbot.png" width="100%" style="border-radius:10px;" />
-      <br>
       <div align="right"><b>Web / AI</b></div>
       <h3>Travel Smart Chatbot</h3>
       <p>Asistente virtual inteligente para la planificación de viajes. Utiliza IA generativa para ofrecer recomendaciones personalizadas e itinerarios basados en preferencias reales.</p>
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
       <br><br>
-      <a href="https://github.com/Erick-Zam/travel-chatbot"><img src="https://img.shields.io/badge/👁️_Preview-000000?style=for-the-badge" /></a> <a href="https://github.com/Erick-Zam/travel-chatbot"><img src="https://img.shields.io/badge/💻_View_Full-white?style=for-the-badge" /></a>
+      <a href="https://github.com/Erick-Zam/travel-chatbot"><b>[ 🔗 Ver código del repositorio ]</b></a>
     </td>
     <td width="50%" valign="top">
-      <img src="assets/covers/web-isaitur.png" width="100%" style="border-radius:10px;" />
-      <br>
       <div align="right"><b>Web Agency</b></div>
       <h3>Web Isaitur Agency</h3>
       <p>Plataforma web para agencia de viajes con integración de chatbot para atención al cliente 24/7. Centrada en la conversión y la experiencia de usuario premium.</p>
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/UI/UX-Modern-blue?style=flat-square" />
       <br><br>
-      <a href="https://github.com/Erick-Zam/Web-Isaitur"><img src="https://img.shields.io/badge/👁️_Preview-000000?style=for-the-badge" /></a> <a href="https://github.com/Erick-Zam/Web-Isaitur"><img src="https://img.shields.io/badge/💻_View_Full-white?style=for-the-badge" /></a>
+      <a href="https://github.com/Erick-Zam/Web-Isaitur"><b>[ 🔗 Ver código del repositorio ]</b></a>
     </td>
   </tr>
 </table>
