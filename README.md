@@ -46,18 +46,21 @@ Ingeniero en Computacion enfocado en construir soluciones backend y despliegues 
 ### 🌐 Web y Portfolio
 
 - 🌐 [Erick-Zam.github.io](https://github.com/Erick-Zam/Erick-Zam.github.io) | Sitio personal (HTML)
-- 🌿 [Web-Isaitur](https://github.com/Erick-Zam/Web-Isaitur) | Chatbot y gestión para Agencia de Viajes (React/PHP)
-- 🍃 [BioTea](https://github.com/Erick-Zam/BioTea) | Proyecto web (TypeScript)
+- 🍃 [Web-Isaitur](https://github.com/Erick-Zam/Web-Isaitur) | Chatbot y gestión para Agencia de Viajes (React/PHP)
+- 🤖 [travel-chatbot](https://github.com/Erick-Zam/travel-chatbot) | Chatbot inteligente para viajes (Next.js/OpenAI)
+- 🌿 [BioTea](https://github.com/Erick-Zam/BioTea) | Proyecto web (TypeScript)
 
-### ⚙️ Backend, IA y Automatizacion
+### ⚙️ Backend, Infraestructura e IA
 
+- 🏛️ [Portafolio-Servidor](https://github.com/Erick-Zam/Portafolio-Servidor) | Monorepo: Backend NestJS, App Admin y Gestión de Servidores (Docker/Node.js)
 - 🚀 [Api-WhatsApp](https://github.com/Erick-Zam/Api-WhatsApp) | Plataforma SaaS para automatización de WhatsApp (Node.js/Docker)
 - 🧠 [KPIs](https://github.com/Erick-Zam/KPIs) | Microservicio de IA para análisis de métricas y KPIs (Python)
-- 🐍 [Traductor-Ch-Es-En](https://github.com/Erick-Zam/Traductor-Ch-Es-En) | Traductor completo con IA (Python)
+- 🛠️ [Server-LLM](https://github.com/Erick-Zam/Server-LLM) | Gestor remoto de servidores para LLMs y Ollama (Python/SSH)
 
-### 📱 Mobile y Experimentacion
+### 📱 Mobile e IoT
 
-- 📱 [stack-navigations](https://github.com/Erick-Zam/stack-navigations) | Base de navegacion en JavaScript
+- 🔌 [BluetoothApp](https://github.com/Erick-Zam/BluetoothApp) | Control de hardware y sensores mediante Bluetooth/WiFi (React Native/ESP32)
+- 📱 [stack-navigations](https://github.com/Erick-Zam/stack-navigations) | Base de navegación en JavaScript
 
 ### 🎓 Academico
 
@@ -72,25 +75,28 @@ Ingeniero en Computacion enfocado en construir soluciones backend y despliegues 
 
 - 📦 [Api-WhatsApp](https://github.com/Erick-Zam/Api-WhatsApp) | Platform SaaS (Node.js/Docker)
 - 📦 [BioTea](https://github.com/Erick-Zam/BioTea) | TypeScript
+- 📦 [BluetoothApp](https://github.com/Erick-Zam/BluetoothApp) | IoT & Mobile (React Native/ESP32)
 - 📦 [Erick-Zam](https://github.com/Erick-Zam/Erick-Zam) | Profile Repository
 - 📦 [Erick-Zam.github.io](https://github.com/Erick-Zam/Erick-Zam.github.io) | HTML
 - 📦 [KPIs](https://github.com/Erick-Zam/KPIs) | AI Microservice (Python)
-- 📦 [Sistema-Finca-La-Delicia-](https://github.com/Erick-Zam/Sistema-Finca-La-Delicia-) | Sin lenguaje detectado
+- 📦 [Portafolio-Servidor](https://github.com/Erick-Zam/Portafolio-Servidor) | Infrastructure & App (NestJS/React Native)
+- 📦 [Server-LLM](https://github.com/Erick-Zam/Server-LLM) | Server Manager (Python)
+- 📦 [Sistema-Finca-La-Delicia-](https://github.com/Erick-Zam/Sistema-Finca-La-Delicia-) | Colaboración
 - 📦 [stack-navigations](https://github.com/Erick-Zam/stack-navigations) | JavaScript
 - 📦 [tesiss](https://github.com/Erick-Zam/tesiss) | PHP
-- 📦 [Traductor-Ch-Es-En](https://github.com/Erick-Zam/Traductor-Ch-Es-En) | Python
+- 📦 [travel-chatbot](https://github.com/Erick-Zam/travel-chatbot) | Web Chatbot (Next.js)
 - 📦 [Web-Isaitur](https://github.com/Erick-Zam/Web-Isaitur) | Chatbot Agency (React/PHP)
 
 ## Repos destacados
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Erick-Zam&repo=Portafolio-Servidor&theme=tokyonight&hide_border=true&bg_color=00000000" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Erick-Zam&repo=Api-WhatsApp&theme=tokyonight&hide_border=true&bg_color=00000000" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Erick-Zam&repo=KPIs&theme=tokyonight&hide_border=true&bg_color=00000000" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Erick-Zam&repo=Traductor-Ch-Es-En&theme=tokyonight&hide_border=true&bg_color=00000000" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Erick-Zam&repo=Web-Isaitur&theme=tokyonight&hide_border=true&bg_color=00000000" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Erick-Zam&repo=Server-LLM&theme=tokyonight&hide_border=true&bg_color=00000000" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Erick-Zam&repo=BluetoothApp&theme=tokyonight&hide_border=true&bg_color=00000000" />
 </p>
 
 ## Contacto
