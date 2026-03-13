@@ -6,13 +6,13 @@
 [![Repos](https://img.shields.io/badge/Repos-8-blue?style=for-the-badge&logo=github)](https://github.com/Erick-Zam?tab=repositories)
 [![Profile views](https://komarev.com/ghpvc/?username=Erick-Zam&style=for-the-badge)](https://github.com/Erick-Zam)
 
-## Perfil tecnico
+## Perfil profesional
 
-Ingeniero en Computacion enfocado en construir soluciones backend y despliegues productivos, con experiencia en automatizacion e integraciones IoT.
+Ingeniero en Computación con mentalidad de arquitecto, especializado en el desarrollo de ecosistemas backend escalables, automatización de procesos y convergencia de hardware-software (IoT). Enfocado en entregar código limpio y soluciones que impacten directamente en la eficiencia operativa.
 
 ---
 
-## 🗂️ Ecosistema tecnico
+## 🛠️ Stack Tecnológico & Herramientas
 
 <table><tr><td align="center" valign="top" width="33%"><br><b>⚙️ Backend</b><br><br><img src="https://skillicons.dev/icons?i=python,nodejs,fastapi,flask,php,java,go&perline=4" /><br><br><kbd>Python</kbd> <kbd>Node.js</kbd> <kbd>FastAPI</kbd> <kbd>Flask</kbd> <kbd>PHP</kbd> <kbd>Java</kbd> <kbd>Go</kbd><br><br></td><td align="center" valign="top" width="33%"><br><b>🌐 Frontend y Web</b><br><br><img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,vite&perline=4" /><br><br><kbd>JavaScript</kbd> <kbd>TypeScript</kbd> <kbd>HTML5</kbd> <kbd>CSS3</kbd> <kbd>React</kbd> <kbd>Next.js</kbd> <kbd>Vite</kbd><br><br></td><td align="center" valign="top" width="33%"><br><b>🗄️ Databases</b><br><br><img src="https://skillicons.dev/icons?i=mysql,mongodb&perline=4" /><br><img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="28" /><br><br><kbd>MySQL</kbd> <kbd>MongoDB</kbd> <kbd>SQL Server</kbd><br><br></td></tr><tr><td align="center" valign="top" width="33%"><br><b>🚀 DevOps e Infraestructura</b><br><br><img src="https://skillicons.dev/icons?i=docker,linux,githubactions,nginx,git,bash&perline=3" /><br><br><kbd>Docker</kbd> <kbd>Linux</kbd> <kbd>GH Actions</kbd> <kbd>Nginx</kbd> <kbd>Git</kbd> <kbd>Bash</kbd><br><br></td><td align="center" valign="top" width="33%"><br><b>📱 Mobile</b><br><br><img src="https://skillicons.dev/icons?i=react,androidstudio&perline=3" /><br><img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" height="28" /><br><br><kbd>React Native</kbd> <kbd>Expo</kbd> <kbd>Android Studio</kbd><br><br></td><td align="center" valign="top" width="33%"><br><b>🔌 IoT y Herramientas</b><br><br><img src="https://skillicons.dev/icons?i=arduino,cpp,vscode,postman,github&perline=3" /><br><img src="https://img.shields.io/badge/ESP32-3C3C3C?style=for-the-badge&logo=espressif&logoColor=E7352C" height="28" /><br><br><kbd>Arduino</kbd> <kbd>C++</kbd> <kbd>ESP32</kbd> <kbd>VS Code</kbd> <kbd>Postman</kbd> <kbd>GitHub</kbd><br><br></td></tr></table>
 
@@ -115,6 +115,7 @@ Ingeniero en Computacion enfocado en construir soluciones backend y despliegues 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Erick-Zam&repo=LLM-Server&theme=tokyonight&hide_border=true&show_owner=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Erick-Zam&repo=travel-chatbot&theme=tokyonight&hide_border=true&show_owner=true" />
 </p>
 
 ## Contacto
