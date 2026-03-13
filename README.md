@@ -37,9 +37,6 @@ Ingeniero en Computacion enfocado en construir soluciones backend y despliegues 
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Erick-Zam&theme=github_dark" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Erick-Zam&row=1&column=7&no-frame=true&no-bg=true&theme=tokyonight" />
-</p>
 
 ## 📁 Repositorios por categoria
 
