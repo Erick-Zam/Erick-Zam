@@ -59,7 +59,7 @@ Ingeniero en Computacion enfocado en construir soluciones backend y despliegues 
 
 ### 📱 Mobile e IoT
 
-- 🔌 [BluetoothApp](https://github.com/Erick-Zam/BluetoothApp) | Control de hardware y sensores mediante Bluetooth/WiFi (React Native/ESP32)
+- 🔌 [IoT-Full-Stack](https://github.com/Erick-Zam/IoT-Full-Stack) | Control de hardware y sensores mediante Bluetooth/WiFi (React Native/ESP32)
 - 📱 [stack-navigations](https://github.com/Erick-Zam/stack-navigations) | Base de navegación en JavaScript
 
 ### 🎓 Academico
@@ -75,7 +75,7 @@ Ingeniero en Computacion enfocado en construir soluciones backend y despliegues 
 
 - 📦 [Api-WhatsApp](https://github.com/Erick-Zam/Api-WhatsApp) | Platform SaaS (Node.js/Docker)
 - 📦 [BioTea](https://github.com/Erick-Zam/BioTea) | TypeScript
-- 📦 [BluetoothApp](https://github.com/Erick-Zam/BluetoothApp) | IoT & Mobile (React Native/ESP32)
+- 📦 [IoT-Full-Stack](https://github.com/Erick-Zam/IoT-Full-Stack) | IoT & Mobile (React Native/ESP32)
 - 📦 [Erick-Zam](https://github.com/Erick-Zam/Erick-Zam) | Profile Repository
 - 📦 [Erick-Zam.github.io](https://github.com/Erick-Zam/Erick-Zam.github.io) | HTML
 - 📦 [KPIs](https://github.com/Erick-Zam/KPIs) | AI Microservice (Python)
@@ -96,7 +96,7 @@ Ingeniero en Computacion enfocado en construir soluciones backend y despliegues 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Erick-Zam&repo=Server-LLM&theme=tokyonight&hide_border=true&bg_color=00000000" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Erick-Zam&repo=BluetoothApp&theme=tokyonight&hide_border=true&bg_color=00000000" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Erick-Zam&repo=IoT-Full-Stack&theme=tokyonight&hide_border=true&bg_color=00000000" />
 </p>
 
 ## Contacto
