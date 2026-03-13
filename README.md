@@ -51,7 +51,7 @@ Ingeniero en Computacion enfocado en construir soluciones backend y despliegues 
 - 🏛️ [Portafolio-Servidor](https://github.com/Erick-Zam/Portafolio-Servidor) | Monorepo: Backend NestJS, App Admin y Gestión de Servidores (Docker/Node.js)
 - 🚀 [Api-WhatsApp](https://github.com/Erick-Zam/Api-WhatsApp) | Plataforma SaaS para automatización de WhatsApp (Node.js/Docker)
 - 🧠 [KPIs](https://github.com/Erick-Zam/KPIs) | Microservicio de IA para análisis de métricas y KPIs (Python)
-- 🛠️ [Server-LLM](https://github.com/Erick-Zam/Server-LLM) | Gestor remoto de servidores para LLMs y Ollama (Python/SSH)
+- 🛠️ [LLM-Server](https://github.com/Erick-Zam/LLM-Server) | Gestor remoto de servidores para LLMs y Ollama (Python/SSH)
 
 ### 📱 Mobile e IoT
 
@@ -76,7 +76,7 @@ Ingeniero en Computacion enfocado en construir soluciones backend y despliegues 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Erick-Zam&repo=Server-LLM&theme=tokyonight&hide_border=true&show_owner=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Erick-Zam&repo=LLM-Server&theme=tokyonight&hide_border=true&show_owner=true" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Erick-Zam&repo=IoT-Full-Stack&theme=tokyonight&hide_border=true&show_owner=true" />
 </p>
 
