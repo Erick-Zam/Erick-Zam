@@ -46,16 +46,18 @@ Ingeniero en Computacion enfocado en construir soluciones backend y despliegues 
 ### 🌐 Web y Portfolio
 
 - 🌐 [Erick-Zam.github.io](https://github.com/Erick-Zam/Erick-Zam.github.io) | Sitio personal (HTML)
-- 🌿 [BioTea](https://github.com/Erick-Zam/BioTea) | Proyecto web (TypeScript)
+- 🌿 [Web-Isaitur](https://github.com/Erick-Zam/Web-Isaitur) | Chatbot y gestión para Agencia de Viajes (React/PHP)
+- 🍃 [BioTea](https://github.com/Erick-Zam/BioTea) | Proyecto web (TypeScript)
 
-### 🐍 Backend y Python
+### ⚙️ Backend, IA y Automatizacion
 
-- 🐍 [Traductor-Ch-Es-En](https://github.com/Erick-Zam/Traductor-Ch-Es-En) | Aplicacion en Python
+- 🚀 [Api-WhatsApp](https://github.com/Erick-Zam/Api-WhatsApp) | Plataforma SaaS para automatización de WhatsApp (Node.js/Docker)
+- 🧠 [KPIs](https://github.com/Erick-Zam/KPIs) | Microservicio de IA para análisis de métricas y KPIs (Python)
+- 🐍 [Traductor-Ch-Es-En](https://github.com/Erick-Zam/Traductor-Ch-Es-En) | Traductor completo con IA (Python)
 
 ### 📱 Mobile y Experimentacion
 
 - 📱 [stack-navigations](https://github.com/Erick-Zam/stack-navigations) | Base de navegacion en JavaScript
-- 🎧 [miku-miku-miiiiii](https://github.com/Erick-Zam/miku-miku-miiiiii) | Proyecto JavaScript
 
 ### 🎓 Academico
 
@@ -68,25 +70,27 @@ Ingeniero en Computacion enfocado en construir soluciones backend y despliegues 
 
 ## Todos mis repositorios (lista completa)
 
+- 📦 [Api-WhatsApp](https://github.com/Erick-Zam/Api-WhatsApp) | Platform SaaS (Node.js/Docker)
 - 📦 [BioTea](https://github.com/Erick-Zam/BioTea) | TypeScript
 - 📦 [Erick-Zam](https://github.com/Erick-Zam/Erick-Zam) | Profile Repository
 - 📦 [Erick-Zam.github.io](https://github.com/Erick-Zam/Erick-Zam.github.io) | HTML
-- 📦 [miku-miku-miiiiii](https://github.com/Erick-Zam/miku-miku-miiiiii) | JavaScript
+- 📦 [KPIs](https://github.com/Erick-Zam/KPIs) | AI Microservice (Python)
 - 📦 [Sistema-Finca-La-Delicia-](https://github.com/Erick-Zam/Sistema-Finca-La-Delicia-) | Sin lenguaje detectado
 - 📦 [stack-navigations](https://github.com/Erick-Zam/stack-navigations) | JavaScript
 - 📦 [tesiss](https://github.com/Erick-Zam/tesiss) | PHP
 - 📦 [Traductor-Ch-Es-En](https://github.com/Erick-Zam/Traductor-Ch-Es-En) | Python
+- 📦 [Web-Isaitur](https://github.com/Erick-Zam/Web-Isaitur) | Chatbot Agency (React/PHP)
 
 ## Repos destacados
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Erick-Zam&repo=Traductor-Ch-Es-En&theme=tokyonight&hide_border=true&bg_color=00000000" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Erick-Zam&repo=BioTea&theme=tokyonight&hide_border=true&bg_color=00000000" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Erick-Zam&repo=Api-WhatsApp&theme=tokyonight&hide_border=true&bg_color=00000000" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Erick-Zam&repo=KPIs&theme=tokyonight&hide_border=true&bg_color=00000000" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Erick-Zam&repo=miku-miku-miiiiii&theme=tokyonight&hide_border=true&bg_color=00000000" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Erick-Zam&repo=stack-navigations&theme=tokyonight&hide_border=true&bg_color=00000000" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Erick-Zam&repo=Traductor-Ch-Es-En&theme=tokyonight&hide_border=true&bg_color=00000000" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Erick-Zam&repo=Web-Isaitur&theme=tokyonight&hide_border=true&bg_color=00000000" />
 </p>
 
 ## Contacto
