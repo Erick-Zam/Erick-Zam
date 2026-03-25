@@ -115,7 +115,6 @@ Ingeniero en Computación con mentalidad de arquitecto, especializado en el desa
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Erick-Zam&repo=LLM-Server&theme=tokyonight&hide_border=true&show_owner=true" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Erick-Zam&repo=travel-chatbot&theme=tokyonight&hide_border=true&show_owner=true" />
 </p>
 
 ## Contacto
